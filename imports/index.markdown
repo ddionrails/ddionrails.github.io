@@ -17,8 +17,8 @@ CSV Formats
 * [concepts.csv](concepts_csv.html)
 
 ### Datasets
-* [conceptual_datasets.csv](conceptual_datasets.html)
-* [datasets.csv](datasets.html)
+* [conceptual_datasets.csv](conceptual_datasets_csv.html)
+* [datasets.csv](datasets_csv.html)
 * [variables.csv](variables_csv.html)
 * [datasets_distributions.csv](datasets_distributions_csv.html)
 * [distributions.csv](distributions_csv.html)
