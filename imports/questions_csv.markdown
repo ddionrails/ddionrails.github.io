@@ -6,6 +6,28 @@ title: questions.csv
 question.csv
 ============
 
+List of columns
+---------------
+* `study` String-identifier for the study
+* `questionnaire` String-identifier for the questionnaire
+* `question` Question number
+* `item` Item number
+* `number` Question number
+* `text` Question text
+* `instruction` Interviewer instruction
+* `answers_list` Link to list of answers
+* `scale` Scale (see list of scales below)
+* `filter` Incoming filters (see definition below)
+* `goto` Outgoing filters (see definition below)
+* `label` Label (DEPRECATED)
+* `view_lft` Export only!
+* `view_rgt` Export only!
+* `view_import_note` Export only!
+* `view_import_concept` Export only!
+* `view_import_typ` Export only!
+
+
+
 Scales
 ------
 
