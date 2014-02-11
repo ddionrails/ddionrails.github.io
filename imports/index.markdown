@@ -9,10 +9,28 @@ Imports and Exports
 CSV Formats
 -----------
 
+### Basic Tables
 * [studies.csv](studies_csv.html)
+* [analysis_units.csv](analysis_units_csv.html)
+* [periods.csv](periods_csv.html)
+* [topics.csv](topics_csv.html)
+* [concepts.csv](concepts_csv.html)
+
+### Datasets
+* [conceptual_datasets.csv](conceptual_datasets.html)
+* [datasets.csv](datasets.html)
+* [variables.csv](variables_csv.html)
+* [datasets_distributions.csv](datasets_distributions_csv.html)
+* [distributions.csv](distributions_csv.html)
+
+### Questionnaires
+* [questionnaires.csv](questionnaires_csv.html)
 * [questions.csv](questions_csv.html)
 * [answers.csv](answers_csv.html)
-* [variables.csv](variables_csv.html)
+
+### Advanced
+* [script_generators.csv](script_generators_csv.html)
+* [generations.csv](generations_csv.html)
 
 ### Conventions
 * Some fields in the CSV exports are not part of the import.
