@@ -1,4 +1,4 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-url: http://mhebing.github.io/ddionrails-pages
+url: http://localhost:4000
