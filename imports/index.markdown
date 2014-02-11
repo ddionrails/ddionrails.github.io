@@ -1,10 +1,16 @@
 ---
-layout: default
+layout: ddionrails
 title: Imports and Exports
 ---
 
 Imports and Exports
 ===================
+
+Formats
+-------
+
+* [questions.csv](/imports/questions_csv.html)
+* [variables.csv](/imports/variables_csv.html)
 
 Conventions
 -----------
