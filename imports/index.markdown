@@ -9,8 +9,8 @@ Imports and Exports
 Formats
 -------
 
-* [questions.csv](/imports/questions_csv.html)
-* [variables.csv](/imports/variables_csv.html)
+* [questions.csv](questions_csv.html)
+* [variables.csv](variables_csv.html)
 
 Conventions
 -----------
