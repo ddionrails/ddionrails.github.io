@@ -9,7 +9,9 @@ studies.csv
 Columns
 -------
 
-* `study`
-* `label`
-* `description`
-* `html_description`
+* `study` Name of the study (primary key).
+* `label` Human-readable label.
+* `description` Description (using Markdown).
+* `html_description` HTML description (DEPRECATED).
+
+For more information about the Markdown markup language, see: [Daring Fireball](http://daringfireball.net/projects/markdown/).
