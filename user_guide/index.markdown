@@ -15,12 +15,12 @@ DDI on Rails is created in order to assist the user to explore the SOEP data, to
 
 </div>
 </div>
-<hr />
-<div class="row">
-<div class="col-sm-6">
 
 Search Engine
 -------------
+
+<div class="row">
+<div class="col-sm-6">
 
 On the main page a search option can be found. This is a quick way to be navigated directly to the respective results if the user has a variable name, dataset, topic etc. in mind. It also helps for a quick overview if the user's interest is to find out if there is any data available for his research topic/question.
 
@@ -33,16 +33,16 @@ The already mentioned classes with its assigned symbols are listed again underne
 </div>
 <div class="col-sm-6">
 
-<img src="images/search.png" class="img-responsive">
+<img src="images/search.png" class="img-thumbnail img-responsive">
 
 </div>
 </div>
-<hr />
-<div class="row">
-<div class="col-sm-6">
 
 Studies
 -------
+
+<div class="row">
+<div class="col-sm-6">
 
 DDI on Rails incorporates a few studies "Families in Germany", "SOEP Core study", "Current Population Survey", "Base II", "SOEP Pretest", "SOEP Test Study", "SOEPlong", "Pairfam" and "SOEP Innovation Sample". The particular study can be accessed through as shown in the picture below. After a study of interest is selected, a general overview will be displayed. Moreover, the total number of involved variables and datasets can be viewed.
 
@@ -51,55 +51,55 @@ In the variable browser, there is another search engine adapted to the chosen st
 </div>
 <div class="col-sm-6">
 
-<img src="images/studies.png" class="img-responsive">
+<img src="images/studies.png" class="img-thumbnail img-responsive">
 
 </div>
 </div>
-<hr />
-<div class="row">
-<div class="col-sm-6">
 
 Topics
 ------
+
+<div class="row">
+<div class="col-sm-6">
 
 A variety of topics can be selected on the very top of every page next to "Studies". After clicking on a particular topic, several subtopics appear. The user may also use the search engine to look for specific concepts regarding the chosen topic.
 
 </div>
 <div class="col-sm-6">
 
-<img src="images/topics.png" class="img-responsive">
+<img src="images/topics.png" class="img-thumbnail img-responsive">
 
 </div>
 </div>
-<hr />
-<div class="row">
-<div class="col-sm-6">
 
 Publications
 ------------
+
+<div class="row">
+<div class="col-sm-6">
 
 Under "publications" you can search for any keyword and you will be directed to a list of papers that involve the searched word(s). Each result provides a link to the publication for direct access.
 
 </div>
 <div class="col-sm-6">
 
-<img src="images/publications.png" class="img-responsive">
+<img src="images/publications.png" class="img-thumbnail img-responsive">
 
 </div>
 </div>
-<hr />
-<div class="row">
-<div class="col-sm-6">
 
 Basket
 ------
+
+<div class="row">
+<div class="col-sm-6">
 
 In order to use the basket for selecting variables and compiling personalized datasets, you need an account and have to sign in.
 
 </div>
 <div class="col-sm-6">
 
-<img src="images/login.png" class="img-responsive">
+<img src="images/login.png" class="img-thumbnail img-responsive">
 
 </div>
 <div class="col-sm-6">
@@ -109,7 +109,7 @@ After having signed in, a new basket-symbol appears on the very top. Now you can
 </div>
 <div class="col-sm-6">
 
-<img src="images/basket.png" class="img-responsive">
+<img src="images/basket.png" class="img-thumbnail img-responsive">
 
 </div>
 <div class="col-sm-6">
@@ -119,7 +119,7 @@ All variables of interest accessed as previously explained can be selected into 
 </div>
 <div class="col-sm-6">
 
-<img src="images/workspace.png" class="img-responsive">
+<img src="images/workspace.png" class="img-thumbnail img-responsive">
 
 </div>
 </div>
