@@ -13,9 +13,9 @@ DDI on Rails is created in order to assist the user to explore the SOEP data, to
 Search Engine
 -------------
 
-On the main page a search option can be found. This is a quick way to be navigated directly to the respective results if the user has a variable name, dataset, topic etc. in mind. It also helps for a quick overview if the user’s interest is to find out if there is any data available for his research topic/question.
+On the main page a search option can be found. This is a quick way to be navigated directly to the respective results if the user has a variable name, dataset, topic etc. in mind. It also helps for a quick overview if the user's interest is to find out if there is any data available for his research topic/question.
 
-For instance, if you are looking for which results will be displayed for the keyword "age", you can find a total of 2614 results listed. However, this may be too overwhelming. Thus, it provides you a way to narrow your search output. Possible classes above the total results are "Concepts", "Variables", "Questions" and "Publications" – all marked with its own symbol in front. 
+For instance, if you are looking for which results will be displayed for the keyword "age", you can find a total of 2614 results listed. However, this may be too overwhelming. Thus, it provides you a way to narrow your search output. Possible classes above the total results are "Concepts", "Variables", "Questions" and "Publications" - all marked with its own symbol in front. 
 
 ![search](images/search.png)
 
