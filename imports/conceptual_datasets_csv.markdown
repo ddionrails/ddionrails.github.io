@@ -1,5 +1,5 @@
 ---
-layout: ddionrails
+layout: imports
 title: conceptual_datasets.csv
 ---
 

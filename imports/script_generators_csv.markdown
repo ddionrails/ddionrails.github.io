@@ -1,5 +1,5 @@
 ---
-layout: ddionrails
+layout: imports
 title: script_generators.csv
 ---
 
