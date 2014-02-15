@@ -9,7 +9,6 @@ analysis_units.csv
 Columns
 -------
 
-* `analysis_unit`
-* `label`
-* `description`
-
+* `analysis_unit` Name of the analysis unit (primary key).
+* `label` Short label.
+* `description` Description using Markdown.

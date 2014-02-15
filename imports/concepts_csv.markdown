@@ -9,7 +9,7 @@ concepts.csv
 Columns
 -------
 
-* `concept`
-* `topic`
-* `label`
-* `description"`
+* `concept` Name of the concept (primary key).
+* `topic` Name of the topic (primary key).
+* `label` Short label.
+* `description"` Description using Markdown.

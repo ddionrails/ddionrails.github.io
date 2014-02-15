@@ -9,6 +9,6 @@ periods.csv
 Columns
 -------
 
-* `period`
-* `label`
-* `description`
+* `period` Name of the period (primary key).
+* `label` Short label.
+* `description` Description using Markdown.

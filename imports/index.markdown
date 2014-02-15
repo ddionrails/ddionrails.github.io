@@ -11,6 +11,12 @@ CSV Formats
 
 See list on the left.
 
+#### Markdown
+
+In most imports, there is a `descriptioni` field using Markdown. For more
+information about the Markdown markup language, see:
+[Daring Fireball](http://daringfireball.net/projects/markdown/).
+
 #### Conventions
 
 * Some fields in the CSV exports are not part of the import.
