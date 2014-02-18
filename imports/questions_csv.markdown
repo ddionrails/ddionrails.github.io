@@ -49,8 +49,9 @@ Rules for filter and goto
 Filter and goto definitions consist of question names and symbols only,
 no keywords (e.g. "goto") are used.
 
-* Symboles `( ) = < > @ | &` -- don't use `>=` or `<=`
+* Symboles `( ) = < > @ | & :` -- don't use `>=` or `<=`
 * Filter `(AGE > 20) & (SEX = 1)` means: this question is asked if "age" is
   greater than 20 and "sex" is 1
 * Goto `(2 @ TARGET)` means: if the answer to the current question is 2 then
   go to question "target"
+* Refer to items using the colon as a seperator, e.g. `(PSOR:2 = 3)`.
