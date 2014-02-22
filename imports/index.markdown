@@ -23,6 +23,7 @@ information about the Markdown markup language, see:
   Those fields start with `view_`
 * Imports for `logical_variables` and `logical_datasets` are renamed to
   `variables` and `datasets`.
+* Language codes, for all translation purposes: [ISO 639-1](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
 XML Formats
 -----------
