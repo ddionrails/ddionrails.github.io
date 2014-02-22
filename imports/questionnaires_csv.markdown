@@ -15,4 +15,4 @@ Columns
 * `description` Description using Markdown.
 * `analysis_unit` Name of the analysis unit (foreign key).
 * `period` Name of the time period (foreign key).
-* `dataset` Name of the dataset (foreign key, import only!).
+* `dataset` Name of the dataset (foreign key).
