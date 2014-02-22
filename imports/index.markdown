@@ -9,11 +9,11 @@ Imports and Exports
 CSV Formats
 -----------
 
-See list on the left.
+See list on the right-hand site.
 
 #### Markdown
 
-In most imports, there is a `descriptioni` field using Markdown. For more
+In most imports, there is a `description` field using Markdown. For more
 information about the Markdown markup language, see:
 [Daring Fireball](http://daringfireball.net/projects/markdown/).
 
