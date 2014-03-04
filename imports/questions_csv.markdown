@@ -26,7 +26,7 @@ List of columns
   from the order of the questions in the import file.
 * `view_lft` and `view_rgt` Export only.
 * `view_import_note` Export only (DEPRECATED).
-* `view_import_concept` Concept of the question, based on the first related
+* `view_first_concept` Concept of the question, based on the first related
   variable.
 * `view_import_typ` Export only (DEPRECATED).
 * `view_calculated_number` and `view_calculated_item` Special information for
