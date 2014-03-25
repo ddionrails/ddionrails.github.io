@@ -22,6 +22,7 @@ List of columns
 * `filter` Incoming filters (see definition below).
 * `goto` Outgoing filters (see definition below).
 * `label` Label (DEPRECATED).
+* `description` Human readable description including additional unstructured information.
 * `view_sort_id` Sort order of the questions. The `view_sort_id` is generated
   from the order of the questions in the import file.
 * `view_lft` and `view_rgt` Export only.
