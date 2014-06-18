@@ -32,6 +32,8 @@ List of columns
 * `view_import_typ` Export only (DEPRECATED).
 * `view_calculated_number` and `view_calculated_item` Special information for
   imports following the SOEP-QLIB-conventions.
+* `logical_variable` Name of the resulting variable (foreign key, import only).
+* `logical_dataset` Name of the dataset of the resulting variable (foreign key, import only).
 
 Scales
 ------
