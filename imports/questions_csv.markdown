@@ -13,7 +13,7 @@ List of columns
 * `question` Name of the question (primary key).
 * `item` Number of the question item (primary key). If the `item` is empty,
   the question is considered to be a "root question", which might have items.
-* `number` Question number, as found in the questionnaire.
+* `number` Question number (integer), as a reference to the position in the questionnaire.
 * `concept` Name of question's concept (foreign key).
 * `text` Question text.
 * `instruction` Interviewer instruction.
