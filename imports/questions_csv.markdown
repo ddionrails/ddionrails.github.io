@@ -59,4 +59,4 @@ no keywords (e.g. "goto") are used.
 * Goto `(2 @ TARGET)` means: if the answer to the current question is 2 then
   go to question "target"
 * Refer to items using the colon as a seperator, e.g. `(PSOR:2 = 3)`.
-* Value lists and ranges: (x = 1:3) is equal to (x = 1,2,3) is equal to (x = 1) | (x = 2) | (x = 3)
+* Value lists and ranges: `(x = 1:3)` is equal to `(x = 1,2,3)` is equal to `(x = 1) | (x = 2) | (x = 3)`
