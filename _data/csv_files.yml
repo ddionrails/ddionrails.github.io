@@ -1,18 +1,36 @@
-studies: tag
-analysis_units: tag
-periods: tag
-conceptual_datasets: tag
-topics: certificate
-concepts: certificate
-distributions: th
-datasets_distributions: th
-logical_datasets: th
-logical_variables: stats
-variables: stats
-variable_categories: stats
-generations: stats
-questionnaires: book
-questions: edit
-answers: edit
-generators: transfer
-translations: transfer
+- name: studies
+  icon: tag
+- name: analysis_units
+  icon: tag
+- name: periods
+  icon: tag
+- name: conceptual_datasets
+  icon: tag
+- name: topics
+  icon: certificate
+- name: concepts
+  icon: certificate
+- name: distributions
+  icon: th
+- name: datasets_distributions
+  icon: th
+- name: logical_datasets
+  icon: th
+- name: logical_variables
+  icon: stats
+- name: variables
+  icon: stats
+- name: variable_categories
+  icon: stats
+- name: generations
+  icon: stats
+- name: questionnaires
+  icon: book
+- name: questions
+  icon: edit
+- name: answers
+  icon: edit
+- name: generators
+  icon: transfer
+- name: translations
+  icon: transfer

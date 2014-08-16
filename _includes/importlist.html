@@ -4,9 +4,9 @@
   </div>
   <div class="list-group">
     {% for csv_file in site.data.csv_files %}
-    <a class="list-group-item" href="{{ csv_file[0] }}_csv.html">
-      <span class="glyphicon glyphicon-{{ csv_file[1] }}"></span>
-      {{ csv_file[0] }}.csv
+    <a class="list-group-item" href="{{ csv_file.name }}_csv.html">
+      <span class="glyphicon glyphicon-{{ csv_file.icon }}"></span>
+      {{ csv_file.name }}.csv
     </a>
     {% endfor %}
   </div>
