@@ -1,4 +1,18 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+name: "DDI on Rails"
+markdown: "kramdown"
 highlighter: true
-url: http://localhost:4000
+encoding: "utf-8"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Marcel Hebing"
+      layout: "ddionrails"
+  -
+    scope:
+      path: "imports"
+    values:
+      layout: "imports"
+kramdown:
+  input: "GFM"
