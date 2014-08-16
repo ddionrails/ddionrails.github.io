@@ -1,0 +1,6 @@
+- name: "About"
+  url: "/about/"
+- name: "User Guide"
+  url: "/user_guide/"
+- name: "Imports and Exports"
+  url: "/imports/"
