@@ -3,77 +3,11 @@
     <a href="."><b>Imports and Exports</b></a>
   </div>
   <div class="list-group">
-    <a class="list-group-item" href="studies_csv.html">
-      <span class="glyphicon glyphicon-tag"></span>
-      studies.csv
+    {% for csv_file in site.data.csv_files %}
+    <a class="list-group-item" href="{{ csv_file[0] }}_csv.html">
+      <span class="glyphicon glyphicon-{{ csv_file[1] }}"></span>
+      {{ csv_file[0] }}.csv
     </a>
-    <a class="list-group-item" href="analysis_units_csv.html">
-      <span class="glyphicon glyphicon-tag"></span>
-      analysis_units.csv
-    </a>
-    <a class="list-group-item" href="periods_csv.html">
-      <span class="glyphicon glyphicon-tag"></span>
-      periods.csv
-    </a>
-    <a class="list-group-item" href="conceptual_datasets_csv.html">
-      <span class="glyphicon glyphicon-tag"></span>
-      conceptual_datasets.csv
-    </a>
-    <a class="list-group-item" href="topics_csv.html">
-      <span class="glyphicon glyphicon-certificate"></span>
-      topics.csv
-    </a>
-    <a class="list-group-item" href="concepts_csv.html">
-      <span class="glyphicon glyphicon-certificate"></span>
-      concepts.csv
-    </a>
-    <a class="list-group-item" href="distributions_csv.html">
-      <span class="glyphicon glyphicon-th"></span>
-      distributions.csv
-    </a>
-    <a class="list-group-item" href="datasets_distributions_csv.html">
-      <span class="glyphicon glyphicon-th"></span>
-      datasets_distributions.csv
-    </a>
-    <a class="list-group-item" href="logical_datasets_csv.html">
-      <span class="glyphicon glyphicon-th"></span>
-      logical_datasets.csv
-    </a>
-    <a class="list-group-item" href="logical_variables_csv.html">
-      <span class="glyphicon glyphicon-stats"></span>
-      logical_variables.csv
-    </a>
-    <a class="list-group-item" href="variables_csv.html">
-      <span class="glyphicon glyphicon-stats"></span>
-      variables.csv
-    </a>
-    <a class="list-group-item" href="variable_categories_csv.html">
-      <span class="glyphicon glyphicon-stats"></span>
-      variable_categories.csv
-    </a>
-    <a class="list-group-item" href="generations_csv.html">
-      <span class="glyphicon glyphicon-stats"></span>
-      generations.csv
-    </a>
-    <a class="list-group-item" href="questionnaires_csv.html">
-      <span class="glyphicon glyphicon-book"></span>
-      questionnaires.csv
-    </a>
-    <a class="list-group-item" href="questions_csv.html">
-      <span class="glyphicon glyphicon-edit"></span>
-      questions.csv
-    </a>
-    <a class="list-group-item" href="answers_csv.html">
-      <span class="glyphicon glyphicon-edit"></span>
-      answers.csv
-    </a>
-    <a class="list-group-item" href="script_generators_csv.html">
-      <span class="glyphicon glyphicon-transfer"></span>
-      script_generators.csv
-    </a>
-    <a class="list-group-item" href="translations_csv.html">
-      <span class="glyphicon glyphicon-transfer"></span>
-      translations.csv
-    </a>
+    {% endfor %}
   </div>
 </div>
