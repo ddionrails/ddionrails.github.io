@@ -45,28 +45,30 @@ Import Structure
 ### Top Level
 
     import/
-    | system/       # -> system-wide imports
-    | study-first/  # \
-    | study-second/ #  }-> one folder per study
-    | study-third/  # /
+    |  system/       # -> system-wide imports
+    |  study-first/  # \
+    |  study-second/ #  }-> one folder per study
+    |  study-third/  # /
 
 ### All Levels
 
     import/
-    | system/
-    | | endnote.xml
-    | | endnote-keys.txt
-    | | ddiOnRails.png
-    | study-first/
-    | | studies.csv
-    | | variables.csv
-    | | ... all other csv files ...
-    | | files/
-    | | | ... all files for public folder ...
-    | | qedml/
-    | | | ... questionnaires in QeDML-XML-format ...
-    | | r2ddi/
-    | | | distribution/
-    | | | |... dataset descriptions in DDI-C-XML ...
-    | study-second/
-    | | ... like study-first ...
+    |  system/
+    |  |  endnote.xml
+    |  |  endnote-keys.txt
+    |  |  ddiOnRails.png
+    |  study-first/
+    |  |  studies.csv
+    |  |  variables.csv
+    |  |  ...all other csv files...
+    |  |  files/
+    |  |  |  ...all files for public folder...
+    |  |  qedml/
+    |  |  |  ...questionnaires in QeDML-XML-format...
+    |  |  r2ddi/
+    |  |  |  version/
+    |  |  |  |  ...dataset descriptions in DDI-C-XML...
+    |  study-second/
+    |  |  ...like study-first...
+
+Attention: the import procedure is about to change in version 1.0 of DDI on Rails.
