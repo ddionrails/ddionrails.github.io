@@ -30,7 +30,7 @@
   icon: edit
 - name: answers
   icon: edit
-- name: generators
+- name: generations
   icon: transfer
 - name: translations
   icon: transfer
