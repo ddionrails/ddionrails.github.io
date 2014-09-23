@@ -30,7 +30,7 @@
   icon: edit
 - name: answers
   icon: edit
-- name: generations
+- name: script_generators
   icon: transfer
 - name: translations
   icon: transfer
