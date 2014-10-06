@@ -1,5 +1,4 @@
 DDI on Rails
 ============
 
-DDI on Rails – understanding data.
-
+http://www.ddionrails.org
