@@ -4,3 +4,5 @@
   url: "/user_guide/"
 - name: "Imports and Exports"
   url: "/imports/"
+- name: "GLBPM"
+  url: "/glbpm/"
