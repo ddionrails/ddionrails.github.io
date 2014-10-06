@@ -10,8 +10,8 @@ List of Columns
 ---------------
 
 * `study` Name of the study (primary key)
-* `dataset` Name of the dataset (primary key)
-* `variable` Name of the variable (primary key)
+* `logical_dataset` Name of the dataset (primary key)
+* `logical_variable` Name of the variable (primary key)
 * `label` Human-readable label.
 * `concept` Name of the underlying concept (foreign key)
 * `questionnaire` Name of the underlying questionnaire (foreign key)
