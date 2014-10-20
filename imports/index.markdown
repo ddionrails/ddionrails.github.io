@@ -22,9 +22,9 @@ information about the Markdown markup language, see:
 **Conventions**
 
 * Some fields in the CSV exports are not part of the import.
-  Those fields start with `view_`
-* Imports for `logical_variables` and `logical_datasets` are renamed to
-  `variables` and `datasets`.
+  Those fields start with `view_` `variables` and `datasets`.
+* Columns with the `internal_` prefix are indended for internal use only and
+  will not be imported (e.g. `internal_comment`).
 * Language codes, for all translation purposes: [ISO 639-1](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
 ### XML Formats
@@ -71,4 +71,4 @@ Import Structure
     |  study-second/
     |  |  ...like study-first...
 
-Attention: the import procedure is about to change in version 1.0 of DDI on Rails.
+**Attention: the import procedure is about to change in version 1.0 of DDI on Rails.**
