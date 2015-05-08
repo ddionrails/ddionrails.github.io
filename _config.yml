@@ -1,6 +1,6 @@
 name: "DDI on Rails"
 markdown: "kramdown"
-highlighter: true
+highlighter: "pygments"
 encoding: "utf-8"
 defaults:
   -
